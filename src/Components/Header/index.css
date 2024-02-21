@@ -1,0 +1,10 @@
+.headerWithLogo{
+    display: flex;
+    justify-content: space-around;
+}
+button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.css-sghohy-MuiButtonBase-root-MuiButton-root{
+    padding: 16px 30px;
+}
+form.searchBox.MuiBox-root.css-7jv5hq{
+    gap: 20px;
+}
